@@ -18,7 +18,7 @@
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>/home/hero/</guid>
-      <description>Elisa Pellegrino A short description of myself here (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+      <description>Elisa Pellegrino My name is Elisa, I am italian but I live in Mons (Belgium). I am a student at UMONS biological sciences.  (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Tue, 28 Nov 2017 18:23:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description> About Me I am a student at the University of Mons located in Belgium </description>
+      <description>About Me I come from Italy, I used to live in a little village called Pomezia, not so far away from Rome. I came in Belgium to study, and the mais reason is that the school education is way more better here.</description>
     </item>
     
     <item>
