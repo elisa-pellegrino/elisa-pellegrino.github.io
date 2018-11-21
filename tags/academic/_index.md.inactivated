@@ -7,7 +7,7 @@ highlight = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/immagine mia 1.jpg"
+image = "headers/immagine_mia_1.jpg"
 caption = "Image credit: [**Kevin Phillips**](http://www.publicdomainpictures.net/view-image.php?image=137855&picture=sunset-beach)"
 +++
 
